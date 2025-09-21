@@ -1,4 +1,4 @@
-# AI The official repository for Artificial Intelligence Project
+The official repository for Artificial Intelligence Project
 
 ChatGPT Employees - J3A
 GROUP MEMBERS:
